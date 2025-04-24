@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://huangbc.blog',
   description: `Technology, Ideas, and Life Stories | 技术、想法与生活故事 - Baocheng Huang's Personal Blog`,
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#fffefc', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
