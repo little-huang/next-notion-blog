@@ -78,7 +78,10 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/">
             <a aria-label={BLOG.title}>
-                <a href={BLOG.socialLink || '#'} className="flex">
+                <a href={BLOG.socialLink || '#'} className="flex" style={{
+                  width: '24px',
+                  height: '24px'
+                }}>
                   <Image
                     alt={BLOG.author}
                     width={24}
