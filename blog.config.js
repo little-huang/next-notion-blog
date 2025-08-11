@@ -1,8 +1,8 @@
 const BLOG = {
   title: `Baocheng Huang's Personal blog`,
-  author: 'BaoCheng Huang',
+  author: 'Baocheng Huang',
   email: '1124778999@qq.com',
-  link: 'https://huangbc.blog',
+  link: 'https://blog.huangbc.com',
   description: `Technology, Ideas, and Life Stories | 技术、想法与生活故事 - Baocheng Huang's Personal Blog`,
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
